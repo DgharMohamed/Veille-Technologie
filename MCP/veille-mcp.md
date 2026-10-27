@@ -5,7 +5,7 @@ paginate: true
 size: 16:9
 ---
 
-# MCP Technology Watch
+# MCP (Model Context Protocol)
 
 ### How AI connects to tools and information
 
